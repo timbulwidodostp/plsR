@@ -1,6 +1,8 @@
 # plsR
 Partial least squares Regression models with leave one out cross validation Use plsR With (In) R Software
 
+https://www.youtube.com/watch?v=s6haupSNs6k
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
